@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "24536228",
+    "firebase_url": "https://craeye-fa4f0.firebaseio.com",
+    "project_id": "craeye-fa4f0",
+    "storage_bucket": "craeye-fa4f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24536228:android:85c892bedd77dc92",
+        "android_client_info": {
+          "package_name": "com.example.craeye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24536228-755qa0nhhcu34gh3f25ltk2gncguf4vd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.craeye",
+            "certificate_hash": "eacbafbf9fe4ee00acae58c695c955f3d6d2daf7"
+          }
+        },
+        {
+          "client_id": "24536228-05omdcj8pka58mg2m91fs0pqeapesm66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJlyhLnclwjX-hbu5qOKHoOfveeumO2Hg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24536228-05omdcj8pka58mg2m91fs0pqeapesm66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

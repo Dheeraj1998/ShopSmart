@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    tools:context=".RegisterActivity">
+
+    <EditText
+        android:id="@+id/r_username"
+        android:layout_width="match_parent"
+        android:layout_marginTop="95dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:padding="10dp"
+        android:drawableStart="@drawable/ic_email_black_24dp"
+        android:drawablePadding="10dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/loginTextColor"
+        android:background="@color/loginTextBackground"
+        android:inputType="text"
+        android:textColorHint="@color/loginTextColor"
+        android:hint="Username"/>
+
+    <EditText
+        android:id="@+id/r_password"
+        android:layout_below="@id/r_username"
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:drawableStart="@drawable/ic_lock_outline_black_24dp"
+        android:drawablePadding="10dp"
+        android:padding="10dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/loginTextColor"
+        android:background="@color/loginTextBackground"
+        android:inputType="numberPassword"
+        android:textColorHint="@color/loginTextColor"
+        android:hint="Password"/>
+
+    <EditText
+        android:id="@+id/r_dob"
+        android:layout_below="@id/r_password"
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:maxLength="8"
+        android:drawableStart="@drawable/ic_date_range_black_24dp"
+        android:drawablePadding="10dp"
+        android:padding="10dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/loginTextColor"
+        android:background="@color/loginTextBackground"
+        android:inputType="date"
+        android:textColorHint="@color/loginTextColor"
+        android:hint="DOB (DD-MM-YYYY)"/>
+    
+    <RadioGroup
+        android:id="@+id/r_gender"
+        android:layout_below="@id/r_dob"
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:padding="10dp"
+        android:layout_marginEnd="20dp"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Gender: "
+            android:layout_weight="1"
+            android:padding="10dp"
+            android:textColor="@color/loginTextColor"
+            android:textSize="18sp" />
+        
+            <RadioButton
+                android:id="@+id/male_btn"
+                android:textColor="@color/loginTextColor"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:textSize="17sp"
+                android:layout_weight="1"
+                android:text="Male"/>
+
+            <RadioButton
+                android:id="@+id/female_btn"
+                android:padding="10dp"
+                android:textColor="@color/loginTextColor"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:textSize="17sp"
+                android:text="Female"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/r_registerbtn"
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/r_gender"
+        android:text="Register"
+        android:onClick="registerUser"
+        android:background="@drawable/btn_drawable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_above="@id/r_signbtn"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:background="@color/loginTextColor"/>
+
+    <TextView
+        android:id="@+id/r_signbtn"
+        android:onClick="openLogin"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textSize="16sp"
+        android:textColor="@color/loginTextColor"
+        android:text="Already registered? Sign In."/>
+</RelativeLayout>

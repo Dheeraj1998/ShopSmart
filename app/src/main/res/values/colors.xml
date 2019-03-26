@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2B98C6</color>
+    <color name="colorPrimaryDark">#247BA0</color>
+    <color name="colorAccent">#FFE066</color>
+    <color name="cardColor1">#E55934</color>
+    <color name="cardColor2">#9BC53D</color>
+    <color name="cardColor3">#5BC0EB</color>
+    <color name="backgroundColor">#114B5F</color>
+    <color name="loginTextBackground">#A6252625</color>
+    <color name="loginTextColor">#FFFFFF</color>
+</resources>
