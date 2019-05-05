@@ -1,6 +1,6 @@
 # ShopSmart
 
-<p align = "center"><img src="Pictures/Project Logo.png" width = 10%"></img></p>
+<p align = "center"><img src="Pictures/Project Icon.png" width = 10%"></img></p>
   
 ShopSmart is a package of tools for retailers to enable proximity marketing in their shops. The application provides the shoppers with personalized offers based on the proximity of the items, age and gender of the customers.
 
