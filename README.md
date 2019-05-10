@@ -16,8 +16,8 @@ The Web application for the Proximity Marketing environment. The application giv
 Project Link - [https://github.com/AnshulHedau/ShopSmart-Desktop](https://github.com/AnshulHedau/ShopSmart-Desktop)
 
 ### Application Screenshots
-<p align = "center"><img src="https://github.com/AnshulHedau/ShopSmart-Desktop/tree/master/Images/image-001.png"></img></p>
-<p align = "center"><img src="https://github.com/AnshulHedau/ShopSmart-Desktop/tree/master/Images/image-002.png"></img></p>
+<p align = "center"><img src="https://github.com/AnshulHedau/ShopSmart-Desktop/blob/master/Images/image-001.png"></img></p>
+<p align = "center"><img src="https://github.com/AnshulHedau/ShopSmart-Desktop/blob/master/Images/image-002.png"></img></p>
 
 ## Project details
 This project was developed as part of SELECT Makathon 2019 at Vellore Institute of Technology, Vellore. The group consisted of [Dheeraj Nair](https://www.linkedin.com/in/dheeraj1998), [Anshul Hedau](https://www.linkedin.com/in/anshul-hedau), [Abhinav Kumar](https://www.linkedin.com/in/abhinavkrs) and [Animesh Kumar](https://www.linkedin.com/in/animesh-kumar-130a6a109).
