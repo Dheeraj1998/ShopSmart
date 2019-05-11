@@ -5,18 +5,19 @@
 ShopSmart is a package of tools for retailers to enable proximity marketing in their shops. The application provides the shoppers with personalized offers based on the proximity of the items, age and gender of the customers.
 
 ## [Android application](https://github.com/Dheeraj1998/ShopSmart/tree/master/Android_Application)
-The android application for the Proximity marketing environment. The application gives the personalized offer based on proximity of the items and considering age and gender of the customer.
+This application is to be installed on the mobile phones of customers. It provides the customers with two different types of offers:
+1. **Daily offers I/II**: These offers change on a daily basis according to the needs of the retailers. These offers are to be set with the use of the associated website.
+2. **Proximity offer**: These offers are sent to the user based on their location in the store. It also takes into consideration the age and gender of the customer.  
 
-### Application Screenshots
+### Application screenshots
 | ![Pictures/image-001.png](Pictures/image-001.png) | ![Pictures/image-002.png](Pictures/image-002.png) |
 | :---: | :---: |
 | Login Page | Offer Page | 
 
-## [Web Application](https://github.com/AnshulHedau/ShopSmart-Desktop)
-The Web application for the Proximity Marketing environment. The application gives vendors the access to provide personalized offer based on proximity of the items and considering age and gender of the customer in an individual racks or shelves.
-Project Link - [https://github.com/AnshulHedau/ShopSmart-Desktop](https://github.com/AnshulHedau/ShopSmart-Desktop)
+## [Web application](https://github.com/AnshulHedau/ShopSmart-Desktop)
+This application gives vendors the access to set the personalized offers based on the proximity of the items, age and gender of the customer according to the different racks/shelves. The source code for the web application can be checked [here](https://github.com/AnshulHedau/ShopSmart-Desktop).
 
-### Application Screenshots
+### Application screenshots
 <p align = "center"><img src="https://github.com/AnshulHedau/ShopSmart-Desktop/blob/master/Images/image-001.png"></img></p>
 <p align = "center"><img src="https://github.com/AnshulHedau/ShopSmart-Desktop/blob/master/Images/image-002.png"></img></p>
 
