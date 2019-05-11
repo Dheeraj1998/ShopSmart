@@ -11,11 +11,6 @@ The android application for the Proximity marketing environment. The application
 | ![Pictures/image-001.png](Pictures/image-001.png) | ![Pictures/image-002.png](Pictures/image-002.png) |
 | :---: | :---: |
 | Login Page | Offer Page | 
-            
-<p align = "center"><img src="Pictures/image-001.png"></img></p>
-Login Page
-<p align = "center"><img src="Pictures/image-002.png"></img></p>
-Offer Page
 
 ## [Web Application](https://github.com/AnshulHedau/ShopSmart-Desktop)
 The Web application for the Proximity Marketing environment. The application gives vendors the access to provide personalized offer based on proximity of the items and considering age and gender of the customer in an individual racks or shelves.
