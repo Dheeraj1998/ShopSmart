@@ -8,7 +8,7 @@ ShopSmart is a package of tools for retailers to enable proximity marketing in t
 The android application for the Proximity marketing environment. The application gives the personalized offer based on proximity of the items and considering age and gender of the customer.
 
 ### Application Screenshots
-| <img src="Pictures/image-001.png" alt="Login Page" style="width: 50%;"/> | <img src="Pictures/image-002.png" alt="Offer Page" style="width: 50%;"/> |
+| ![Pictures/image-001.png](Pictures/image-001.png) | ![Pictures/image-002.png](Pictures/image-002.png) |
 | Login Page | Offer Page |
 
 <p align = "center"><img src="Pictures/image-001.png"></img></p>
