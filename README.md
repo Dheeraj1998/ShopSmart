@@ -18,10 +18,6 @@ This application is to be installed on the mobile phones of customers. It provid
 ## [Web application](https://github.com/AnshulHedau/ShopSmart-Desktop)
 This application gives vendors the access to set the personalized offers based on the proximity of the items, age and gender of the customer according to the different racks/shelves. The source code for the web application can be checked [here](https://github.com/AnshulHedau/ShopSmart-Desktop).
 
-### Application screenshots
-<p align = "center"><img src="https://github.com/AnshulHedau/ShopSmart-Desktop/blob/master/Images/image-001.png"></img></p>
-<p align = "center"><img src="https://github.com/AnshulHedau/ShopSmart-Desktop/blob/master/Images/image-002.png"></img></p>
-
 ## [Python script](https://github.com/Dheeraj1998/ShopSmart/tree/master/Python_Processing)
 This script gets the input from the cameras around the store. The script will identify the age & gender of people in front of the rack. According to the location of the camera, this information is updated in Firebase to reflect the corresponding changes in the android application of the customer.
 
